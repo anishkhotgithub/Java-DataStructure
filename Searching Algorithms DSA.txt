@@ -1,0 +1,18 @@
+Searching
+
+	1) Linear Search
+		Linear search is the simplest searching algorithm.
+		But use it only for small list.
+
+		Best 	Case	- Constant O(1)
+		Worst 	Case 	- Linear   O(n)
+
+	2) Binary Search
+
+		Best 	Case	- Constant    O(1)
+		Worst 	Case	- Logarithmic O(log n)
+
+	3) Hashing
+
+		Best 	Case	- Constant    O(1)
+		Worst 	Case	- Linear      O(n)

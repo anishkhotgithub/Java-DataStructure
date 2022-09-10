@@ -1,0 +1,76 @@
+
+
+DSA (Data Structure & Algorithms)
+
+	Computer science is a field that solves various problems using computers.
+	A problem can be a easy as calculating sum of two numbers and complex
+	as creating robot.
+
+
+	To solve problem by using computers, you need design an algorithm.
+	If you are creating any application there a common thing envolves
+	which is data. Therefore study of algorithm involes data structure.
+
+
+	Algorithm:
+		An algorithm is a step by step procedure to solve a problem.
+
+		Q. Calculate sum of two numbers.
+
+		step 1: start the algorithm.
+		step 2: let a, b and c be three numbers.
+		step 3: accept a and b
+		step 4: c=a+b
+		step 5: display c.
+		step 6: end the algorithm.
+
+
+		Algorithm have following five properties:
+
+		1) Finiteness
+		2) Definiteness
+		3) Input
+		4) Output
+		5) Effectiveness
+
+	
+	Multiple algorithm can be used for solving one problem.
+	In this situation, an algorithm which provides maximum 
+	efficiency should be used for solving a problem.
+
+	
+		
+	Efficiency can be calculated on the following factors:
+		
+		1) Time taken by algorithm.
+		2) Memory.
+		3) Programming Efforts.
+
+
+		Problem 1:
+	
+		1) Algorithm 1	-	2s	50  kb	
+		2) Algorithm 2  -	1s	100 kb
+
+		time/space tradeoff 
+
+
+
+	There are two type of data structures:
+
+		1) Static 
+			It is an array. Which cannot grow or shrink
+			at run time.
+
+		2) Dynamic
+			Which can grow or shrink at run time.
+
+
+	Techniques for designing algorithms:
+
+		1) Divide and conquer
+		2) Greedy approach	
+
+
+	
+	
